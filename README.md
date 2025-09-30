@@ -2,11 +2,11 @@
 
 📊 Minhas estatísticas no GitHub:
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=marcioluiz96&show_icons=true&theme=radical)
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marcioluiz96&layout=compact&theme=radical)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcioluiz96&theme=radical)
 
 
 ## 🛠️ Tecnologias e Ferramentas
