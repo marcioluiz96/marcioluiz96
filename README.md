@@ -22,5 +22,5 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 🌎 Onde me encontrar
-- 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/marcio-luiz-de-oliveira-642a7753))  
+- 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/marcio-luiz-de-oliveira-642a7753)  
 - ✉️ Email: marcioluiz96@gmail.com 
